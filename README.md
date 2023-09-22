@@ -1,19 +1,6 @@
 # API RIOT GAMES by: Klleriston
 
 Projeto desenvolvido para fins educativos e de lazer. Consiste em um Console APP escrito em C# e com o uso da biblioteca `System.Text.Json.Serialization`.
-
-## Diretórios usados:
-
-```csharp
-using System;
-using System.Net.Http;
-using System.Collections.Generic;
-using System.Text.Json;
-using System.Threading.Tasks;
-using RiotApi.invocador;
-using RiotApi.Invocador;
-using System.Text.Json.Serialization;
-```
 ## Funcionamento: 
 
 ```
